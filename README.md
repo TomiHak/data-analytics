@@ -1,4 +1,4 @@
-# data-analytics
+# Junior Data Analyst
 This is created just to show Seriously that I know how to use GitHub and to share some of the work I think is relevant to my application as a Junior Data Analyst. I really want to work there:)
 Below are some examples that I've done while studying.
 PowerBI file is analytics from sales data, it has an animated Scatter chart that im really proud of.
